@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-8xcuw7.date-me.pro/sitemap.xml
